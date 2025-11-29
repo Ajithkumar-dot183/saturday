@@ -3,3 +3,4 @@ this is second line
 this is third line
 this lineis example for merge squash
 this is sqaush 2
+this line is written by remote for merge conflicts
