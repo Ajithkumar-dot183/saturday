@@ -1,2 +1,4 @@
 this is second branch
 this is second line in second branch
+this is squah merge
+this is sqaush merge2
